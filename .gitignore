@@ -1,0 +1,14 @@
+# Sırlar — kesinlikle paylaşma
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
