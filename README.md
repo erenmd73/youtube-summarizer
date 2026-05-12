@@ -43,6 +43,7 @@ echo "ANTHROPIC_API_KEY=your_api_key_here" > .env
 \`\`\`
 
 Get your API key from the [Anthropic Console](https://console.anthropic.com).
+![Demo](screenshot.png)
 
 ## 📖 Usage
 
